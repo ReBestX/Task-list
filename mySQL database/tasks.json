@@ -1,0 +1,33 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"laravel_tasks"},
+{"type":"table","name":"tasks","database":"laravel_tasks","data":
+[
+{"id":"39","title":"Debug complex code in a legacy system - test","description":"Dive into the labyrinth of legacy code and find those elusive bugs.","completed":"1","created_at":"2023-09-05 14:44:33","updated_at":"2023-09-05 16:24:08"},
+{"id":"40","title":"Optimize database queries for better performance","description":"Identify and refactor slow database queries to improve application speed.","completed":"1","created_at":"2023-09-05 14:44:45","updated_at":"2023-09-05 14:51:23"},
+{"id":"41","title":"Attend a tech conference on machine learning","description":"Stay updated with the latest trends in machine learning and AI.","completed":"0","created_at":"2023-09-05 14:44:57","updated_at":"2023-09-05 14:45:26"},
+{"id":"42","title":"Code review for a colleague's pull request","description":"Provide constructive feedback on a teammate's code changes.","completed":"1","created_at":"2023-09-05 14:45:07","updated_at":"2023-09-05 14:51:28"},
+{"id":"43","title":"Fix CSS styling issues on the homepage","description":"Tackle those pesky styling bugs that make the homepage look unprofessional.","completed":"0","created_at":"2023-09-05 14:45:41","updated_at":"2023-09-05 14:45:41"},
+{"id":"44","title":"Develop a RESTful API for a new feature","description":"Design and implement a robust API to support a critical functionality.","completed":"1","created_at":"2023-09-05 14:45:55","updated_at":"2023-09-05 16:48:39"},
+{"id":"45","title":"Write unit tests for the authentication module","description":"Ensure the security and reliability of the authentication system through comprehensive testing.","completed":"1","created_at":"2023-09-05 14:46:08","updated_at":"2023-09-05 14:51:46"},
+{"id":"46","title":"Create wireframes for a mobile app redesign","description":"Sketch out the user interface for the upcoming mobile app makeover.","completed":"1","created_at":"2023-09-05 14:46:20","updated_at":"2023-09-05 14:51:51"},
+{"id":"47","title":"Write unit tests for the authentication module","description":"Ensure the security and reliability of the authentication system through comprehensive testing.","completed":"0","created_at":"2023-09-05 14:46:37","updated_at":"2023-09-05 14:46:37"},
+{"id":"49","title":"Collaborate with the design team on UX improvements","description":"Work closely with designers to enhance the user experience of the application.","completed":"0","created_at":"2023-09-05 14:46:57","updated_at":"2023-09-05 14:46:57"},
+{"id":"50","title":"Review security best practices for web applications","description":"Stay informed about the latest security threats and mitigation strategies.","completed":"0","created_at":"2023-09-05 14:47:13","updated_at":"2023-09-05 14:47:13"},
+{"id":"51","title":"Conduct a code refactoring session","description":"Dedicate time to clean up and improve the existing codebase.","completed":"1","created_at":"2023-09-05 14:47:28","updated_at":"2023-09-05 14:51:59"},
+{"id":"52","title":"Research and implement a new JavaScript framework","description":"Explore the capabilities of a cutting-edge JavaScript framework and apply it to a project.","completed":"1","created_at":"2023-09-05 14:47:40","updated_at":"2023-09-05 14:54:53"},
+{"id":"53","title":"Participate in a hackathon for a social cause","description":"Collaborate with peers to create a software solution that addresses a real-world problem.","completed":"0","created_at":"2023-09-05 14:47:54","updated_at":"2023-09-05 14:47:54"},
+{"id":"54","title":"Document API endpoints and usage guidelines","description":"Provide clear documentation for developers using the API.","completed":"0","created_at":"2023-09-05 14:48:07","updated_at":"2023-09-05 14:48:07"},
+{"id":"55","title":"Prepare a tech talk on DevOps practices","description":"Share insights on DevOps methodologies with the team during a knowledge-sharing session.","completed":"1","created_at":"2023-09-05 14:48:19","updated_at":"2023-09-05 14:55:00"},
+{"id":"56","title":"Troubleshoot server downtime issues","description":"Investigate and resolve server outages to minimize downtime.","completed":"0","created_at":"2023-09-05 14:48:31","updated_at":"2023-09-05 14:48:35"},
+{"id":"57","title":"Code a chatbot for customer support","description":"Build an AI-powered chatbot to assist customers with common inquiries.","completed":"1","created_at":"2023-09-05 14:48:47","updated_at":"2023-09-05 14:55:07"},
+{"id":"58","title":"Test compatibility across different web browsers","description":"Ensure that the web application functions smoothly on various browsers.","completed":"0","created_at":"2023-09-05 14:48:58","updated_at":"2023-09-05 14:48:58"},
+{"id":"59","title":"Set up continuous integration and deployment pipelines","description":"Automate the build and deployment processes to streamline development.","completed":"0","created_at":"2023-09-05 14:49:12","updated_at":"2023-09-05 14:49:12"},
+{"id":"60","title":"Explore containerization with Docker","description":"Experiment with containerization to enhance application scalability and portability.","completed":"0","created_at":"2023-09-05 14:49:23","updated_at":"2023-09-05 14:49:23"},
+{"id":"62","title":"Conduct code performance profiling","description":"Identify and resolve bottlenecks in code performance.","completed":"1","created_at":"2023-09-05 14:49:33","updated_at":"2023-09-05 14:55:17"},
+{"id":"63","title":"Mentor an intern on software development best practices","description":"Share knowledge and guide an intern in their software development journey.","completed":"0","created_at":"2023-09-05 14:50:10","updated_at":"2023-09-05 14:50:10"},
+{"id":"64","title":"Analyze user feedback and prioritize feature requests","description":"Gather user feedback and determine which features to prioritize for development.","completed":"0","created_at":"2023-09-05 14:50:22","updated_at":"2023-09-05 14:50:22"},
+{"id":"65","title":"Update documentation for API version 2.0","description":"Revise documentation to reflect changes in the new API version.","completed":"1","created_at":"2023-09-05 14:50:33","updated_at":"2023-09-05 14:55:22"}
+]
+}
+]
