@@ -5,7 +5,6 @@
     <div class="mb-4">
         <a href="{{route("tasks.index")}}" class="font-medium text-lg"><i class="fa-solid fa-arrow-left"></i> Back</a>
     </div>
-    </div>
     <h1 class="mb-2 text-2xl">{{$task->title}}</h1>
     <p class="mb-2 text-slate-700">{{ $task->description }}</p>
     <p class="mb-4 text-sm text-slate-500">Created {{ $task->created_at->diffForHumans() }}

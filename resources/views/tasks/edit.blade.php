@@ -14,7 +14,7 @@
             <input type="text" name="title" id="title"
                 class="@error("title") border-red-500 @enderror" value="{{$task->title}}"><br/>
             @error("title")
-            <p style="color: red">{{$message}}</p>
+            <p class="error">{{$message}}</p>
             @enderror
         </div>
         <div class="mb-4">
@@ -22,7 +22,7 @@
             <textarea name="description" id="description"
                 class="resize-y min-h-[110px] w-full border @error('description') border-red-500 @enderror">{{$task->description}}</textarea>
             @error("description")
-            <p style="color: red">{{$message}}</p>
+            <p class="error">{{$message}}</p>
             @enderror
         </div>
         <div class="flex items-center gap-2">

@@ -13,7 +13,4 @@ class Task extends Model
         "description",
         "completed"
     ];
-    protected $guarded = [
-        "id"
-    ];
 }
